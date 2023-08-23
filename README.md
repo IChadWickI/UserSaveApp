@@ -1,2 +1,8 @@
-# UserSaveApp
- React-native kullanılarak geliştirilmiş kullanıcı cv kayıt uygulaması
+# İncelemeden Önce Okuyunuz
+- React-native kullanılarak geliştirilmiş kullanıcı cv kayıt uygulamasıdır.
+- Dökümanda verilen tüm maddeler yapılmıştır.
+- Ekran görüntüleri bu dizinde Ekran Görüntüleri klasöründedir.
+- Uygulama içerisinde Rest Countries API ülkeleri çekmek için kullanılmıştır fakat bu api şehir desteği vermediği için bunu için react kütüphanesi kullanılmıştır.
+- Uygulamada fake json api kullanılmıştır örneği kısa videoda mevcuttur.
+- Uygulamada genel olarak sınırlar bulunsada (örn: Aynı tc ile tekrar kayıt olamaması) hızlı geliştirme açısından bütün sınırları çekmedim ve giriş yaptıktan sonraki bazı sayfalar dökümanda yazdığı gibi tasarım olarak bırakılmıştır.
+ 
