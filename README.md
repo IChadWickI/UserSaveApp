@@ -6,6 +6,17 @@
 - Uygulamada fake json api kullanılmıştır örneği kısa videoda mevcuttur.
 - Uygulamada genel olarak sınırlar bulunsada (örn: Aynı tc ile tekrar kayıt olamaması) hızlı geliştirme açısından bütün sınırları çekmedim ve giriş yaptıktan sonraki bazı sayfalar dökümanda yazdığı gibi tasarım olarak bırakılmıştır.
 - Database olarak SQLite kullanılmıştır. Veri güvenliğini sağlamak için eğer online bir app olsaydı servisler tarafından token ile şifreli database gönderilerek kullanıcı verileri saklanıp sqllitedan silinebilirdi.
+- Veri güvenliğini uygulama içerisinde ileri seviyelere çıkarmtak için md5 encryption uygulama içerisinde kullanılabilir.
 
+ # Fake Json Api Kullanımı
+ (video 2. saniyeden sonra başlamaktadır)
  
 [FakeApikullanımı.webm](https://github.com/IChadWickI/UserSaveApp/assets/101260290/800edaa8-1490-4413-ac07-b8b51c6a550a)
+
+ # Sunum Videosu
+
+
+https://github.com/IChadWickI/UserSaveApp/assets/101260290/9e2c0ba1-737e-40d6-87c4-a39a0cd8093f
+
+
+ 
