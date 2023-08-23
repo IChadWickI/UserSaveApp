@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "56545897812",
+            "fullname": "Betül Nur Korkmaz",
+            "phone": "0535 659 8525"
+        },
+        {
+            "id": "78945612345",
+            "fullname": "Ahmet Yılmaz",
+            "phone": "0550 123 4567"
+        },
+        {
+            "id": "12345678901",
+            "fullname": "Elif Demir",
+            "phone": "0543 987 6543"
+        },
+        {
+            "id": "98765432109",
+            "fullname": "Mehmet Aksoy",
+            "phone": "0501 789 3210"
+        }
+    ]
+}
